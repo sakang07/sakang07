@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobe-Illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" /></p><br /><br />
 
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsakang07%2Fhit-counter&count_bg=%23B857E9&title_bg=%23454549&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a></a>
+<a href="https://github.com/sakang07"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsakang07&count_bg=%23B857E9&title_bg=%23454549&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a>
 </p>
 
 <!--
