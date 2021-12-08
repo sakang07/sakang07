@@ -1,8 +1,20 @@
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SA%20K,%20Developer&fontSize=50" />
+<h2 align="center">👋 Hi, there</h2>
+<p align="center">
+  I'm <b>SA K</b>, preparing to become a <b>Developer</b>.
+</p><br />
+<p align="center">
+<a href="https://sakang.notion.site/UIUX-react-js-dc24ea3022af4f28b1f49ece849e1ef8" target="_blank" ><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="mailto:sakang07@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p><br /><br />
 
+<h2 align="center">✨ Tech Stack</h2>
+<br />
+<p align="center">
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /><br />
+<img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobe-Illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" /></p><br /><br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsakang07&count_bg=%23F97890&title_bg=%23333539&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsakang07%2Fhit-counter&count_bg=%23B857E9&title_bg=%23454549&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a></a>
+</p>
 
 <!--
 **sakang07/sakang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
