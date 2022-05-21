@@ -4,7 +4,7 @@
   I'm <b>SA K</b>, preparing to become a <b>Developer</b>.
 </p><br />
 <p align="center">
-<a href="https://sakang.notion.site/UIUX-react-js-dc24ea3022af4f28b1f49ece849e1ef8" target="_blank" ><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="mailto:sakang07@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p><br /><br />
+<a href="https://sakang.notion.site/SA-KANG-253458ca723146bf8a2939d21f366c38" target="_blank" ><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="mailto:sakang07@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p><br /><br />
 
 <h2 align="center">✨ Tech Stack</h2>
 <br />
