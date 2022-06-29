@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SA%20K,%20Developer&fontSize=50" />
 <h2 align="center">👋 Hi, there</h2>
 <p align="center">
-  I'm <b>SA K</b>, preparing to become a <b>Developer</b>.
+  I'm <b>SA K</b>, Junior Frontend Developer.
 </p><br />
 <p align="center">
 <a href="https://sakang.notion.site/SA-KANG-253458ca723146bf8a2939d21f366c38" target="_blank" ><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="mailto:sakang07@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p><br /><br />
