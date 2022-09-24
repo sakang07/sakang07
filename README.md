@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://sakang.notion.site/SA-KANG-253458ca723146bf8a2939d21f366c38" target="_blank" ><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="mailto:sakang07@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><br /><br />
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakang07" />
 </a></p><br />
 
